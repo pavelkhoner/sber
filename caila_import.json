@@ -1,0 +1,17 @@
+{
+  "project" : {
+    "id" : "zmejki_i_lestnitsy-336920-Csg",
+    "name" : "zmejki_i_lestnitsy-336920-Csg",
+    "folder" : "/jaicp"
+  },
+  "settings" : {
+    "language" : "ru",
+    "spellingCorrection" : false,
+    "classificationAlgorithm" : "sts",
+    "timezone" : "UTC",
+    "shared" : false
+  },
+  "intents" : [ ],
+  "entities" : [ ],
+  "enabledSystemEntities" : [ "duckling.number" ]
+}
